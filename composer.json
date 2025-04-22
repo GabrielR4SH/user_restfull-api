@@ -1,0 +1,15 @@
+{
+    "name": "desktop/user_restfull-api",
+    "autoload": {
+        "psr-4": {
+             "Api\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "GabrielR4SH",
+            "email": "bieelsantana23@hotmail.com"
+        }
+    ],
+    "require": {}
+}
