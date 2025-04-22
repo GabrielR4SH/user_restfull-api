@@ -11,5 +11,8 @@
             "email": "bieelsantana23@hotmail.com"
         }
     ],
-    "require": {}
+    "require": {
+         "firebase/php-jwt": "^6.3",
+         "vlucas/phpdotenv": "^5.5"
+    }
 }
